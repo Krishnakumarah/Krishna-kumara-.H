@@ -9,6 +9,7 @@
 - Git & GitHub
 - Python basics
 - Blender (3D modeling)
+- Figma
 
 
 ## 🚀 Future Goals:
